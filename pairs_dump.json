@@ -1,0 +1,16 @@
+[
+  {
+    "id": "BTC-USD",
+    "base": "BTC",
+    "quote": "USD",
+    "display_name": "Bitcoin/US Dollar",
+    "margin_enabled": true
+  },
+  {
+    "id": "ETH-USD",
+    "base": "ETH",
+    "quote": "USD",
+    "display_name": "Ethereum/US Dollar",
+    "margin_enabled": false
+  }
+]
